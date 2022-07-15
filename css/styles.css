@@ -1,0 +1,117 @@
+body{
+  margin: 0;
+}
+
+
+.nav-bar{
+  background-color: #231955;
+  height: 60px;
+}
+.amazon-img{
+  position:relative;
+  height: 50px;
+  left: 45%;
+  padding-top: 10px;
+}
+.watches-img{
+
+  height:450px;
+}
+.body-container{
+
+  /* height: 500px;
+  width: 500px; */
+}
+.para1{
+  font-family: 'Montserrat', sans-serif;
+  /* width: ; */
+}
+.watch-container{
+  float: left;
+}
+.text{
+  justify-content: left;
+  margin-left: 0;
+
+}
+.button1{
+  height: 40px;
+  width: 50px;
+margin-right:  8px;
+  background-color:#ca3d22;
+  border-radius:  8px;
+  border: none;
+}
+.button2{
+  height: 40px;
+  width: 50px;
+margin-right:  8px;
+    background-color:#23211f;
+    border-radius:  8px;
+    border: none;
+}
+.button3{
+  height: 40px;
+  width: 50px;
+  margin-right:  8px;
+    background-color: #565681;
+    border-radius:  8px;
+    border: none;
+}
+.button4{
+  height: 40px;
+  width: 50px;
+margin-right:  8px;
+    background-color:#e9c7be;
+    border-radius:  8px;
+    border: none;
+}
+.button5{
+  height: 40px;
+  width: 50px;
+margin-right:  8px;
+    background-color:#8a5362;
+    border-radius:  8px;
+    border: none;
+}
+
+.time-btn{
+  height: 30px;
+  width: 80px;
+  margin-left: 570px;
+   margin-top: 50px;
+   margin-right: 8px;
+  border-radius:  8px;
+  border: none;
+}
+.rate-btn{
+  position: relative;
+  bottom: 28px;
+  height: 30px;
+  width: 100px;
+  margin-top: 0;
+    margin-left: 450px;
+  border-radius:  8px;
+  border: none;
+}
+.last-btn{
+  margin-left: 450px;
+  margin-top: 50px;
+  height: 50px;
+  width: 100px;
+  border: none;
+  background-color: #FEB139;
+  border-radius: 8px;
+}
+.feature-btn{
+  width:100px;
+}
+ #time {
+  margin-top: -260px;
+  margin-left: 220px;
+  font-size: 40px;
+  color: white;
+  transform: translateX(-50%);
+  text-align: center;
+  z-index: 1;
+}
